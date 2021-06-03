@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<h1>Lab-02<h1>
+<p>For this weeks lab we focused on git repoitory and learning the basic commands to use on terminal. 
+Lab goals and outcomes:
 
-You can use the [editor on GitHub](https://github.com/Alexs213/cit281-lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alexs213/cit281-lab2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Use CLI commands for directory and file manipulation
+  
+*Use CLI commands for git commands
+  
+*Part 1: New git repository
+  
+*Part 2: Initial JavaScript file
+  
+*Part 3: Add file to git
+  
+*Part 4: Ignoring files
+  
+*Part 5: Using diff to see changes
+  
+*Part 6: Using wildcards
+  
+*Part 7: Cloning cloud repos locally
+  
+*Part 8: Branch
+  
+<p>*Part 9: Repo files<p>
+  
+  ![Lab2](lab2.png)
