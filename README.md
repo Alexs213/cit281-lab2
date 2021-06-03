@@ -12,3 +12,5 @@ Lab goals and outcomes:
 <br>Part 7: Cloning cloud repos locally
 <br>Part 8: Branch
 <br>Part 9: Repo files
+
+![Lab2](lab2.png)
