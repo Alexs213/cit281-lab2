@@ -1,5 +1,7 @@
-<h1>Lab-02<h1>
+Lab-02
+
 For this weeks lab we focused on git repoitory and learning the basic commands to use on terminal. 
+
 Lab goals and outcomes:
 
 Use CLI commands for directory and file manipulation
